@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ImNotABot1000/Personal/issues"
   },
-  "homepage": "https://github.com/ImNotABot1000/Personal#readme"
+  "homepage": "https://github.com/ImNotABot1000/Personal#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
